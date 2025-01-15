@@ -1,4 +1,4 @@
-
+   
 # Python Dashboard Project
 
 This project is a simple, modular Python-based dashboard designed for quick prototyping and learning. It leverages Python libraries to deliver structured and reusable code.
@@ -61,5 +61,3 @@ Feel free to fork this repository, open issues, or create pull requests for enha
 ## License
 
 This project is licensed under the MIT License.
-
-```
